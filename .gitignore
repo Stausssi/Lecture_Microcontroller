@@ -1,0 +1,5 @@
+**/Debug/*
+*.atsuo
+*.atsln
+*.cproj
+*.componentinfo.xml
